@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Wesonga Jackson! 👋
 
-<!--
-**WesongaJackson/WesongaJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer based in Kenya. Here's a little about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on various web development projects.
+- 🌱 I’m currently learning Spring Boot with Java.
+- 👯 I’m looking to collaborate on open-source projects related to web development.
+- 💬 Ask me about JavaScript, HTML, CSS, Bootstrap, and anything related to web development.
+- 📫 How to reach me: You can reach me via email at hackingson2@gmail.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love practicing hacking techniques in my free time!
+- 🧑‍💻 "I could not find the sports car of my dreams, so I'm building it myself through coding."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Frameworks I Use
+- Python with Django for backend web development
+- JavaScript, HTML, Bootstrap, and CSS for frontend development
+
+
+### Let's Connect
+- LinkedIn: [Jackson Wesonga](https://www.linkedin.com/in/jackson-wesonga-a71088245/)
+- Twitter: [@Jack Nan](https://twitter.com/innovatorjackna)
+- Personal Website: [https://wesongajackson.github.io/]
+
+Thanks for stopping by! 😊
