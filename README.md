@@ -12,7 +12,7 @@ I'm a passionate software engineer based in Kenya. Here's a little about me:
 - 🧑‍💻 "I could not find the sports car of my dreams, so I'm building it myself through coding."
 
 ### Languages and Frameworks I Use
-- Python with Django for backend web development
+- Python PHP with Django ,Laravel for backend web development
 - JavaScript, HTML, Bootstrap, and CSS for frontend development
 
 
