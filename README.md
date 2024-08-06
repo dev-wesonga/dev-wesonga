@@ -1,6 +1,6 @@
 ### Hi there, I'm Wesonga Jackson! 👋
 
-I'm a passionate software engineer based in Kenya. Here's a little about me:
+I'm a  software engineer with 3 years of experience specializing in system security. Driven by curiosity
 
 - 🔭 I’m currently working on various web development projects.
 - 🌱 I’m currently learning Laravel with PHP.
