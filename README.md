@@ -3,9 +3,9 @@
 I'm a passionate software engineer based in Kenya. Here's a little about me:
 
 - 🔭 I’m currently working on various web development projects.
-- 🌱 I’m currently learning Spring Boot with Java.
+- 🌱 I’m currently learning Laravel with PHP.
 - 👯 I’m looking to collaborate on open-source projects related to web development.
-- 💬 Ask me about JavaScript, HTML, CSS, Bootstrap, and anything related to web development.
+- 💬 Ask me about JavaScript,Django, HTML, CSS, Bootstrap, and anything related to web development.
 - 📫 How to reach me: You can reach me via email at hackingson2@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love practicing hacking techniques in my free time!
