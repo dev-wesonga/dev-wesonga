@@ -6,7 +6,7 @@ I'm a  software engineer with 3 years of experience specializing in system secur
 - 🌱 I’m currently learning Laravel with PHP.
 - 👯 I’m looking to collaborate on open-source projects related to web development.
 - 💬 Ask me about JavaScript,Django, HTML, CSS, Bootstrap, and anything related to web development.
-- 📫 How to reach me: You can reach me via email at hackingson2@gmail.com.
+- 📫 How to reach me: You can reach me via email at jacknan598@gmail.com  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love practicing hacking techniques in my free time!
 - 🧑‍💻 "I could not find the sports car of my dreams, so I'm building it myself through coding."
