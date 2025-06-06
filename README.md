@@ -1,24 +1,24 @@
-### Hi there, I'm Wesonga Jackson! 👋
+### Hi there, I'm Jackson Wesonga! 👋  
+👨‍💻 Software Engineer | 🧪 QA Engineer | 🔐 Cybersecurity Enthusiast  
 
-I'm a  software engineer with 3 years of experience specializing in system security. Driven by curiosity
+Welcome to my GitHub! I'm a passionate software engineer with 3+ years of experience in full-stack development, quality assurance, and cybersecurity. I specialize in building scalable web apps, testing software for reliability, and implementing secure systems.  
 
-- 🔭 I’m currently working on various web development projects.
-- 🌱 I’m currently learning Laravel with PHP.
-- 👯 I’m looking to collaborate on open-source projects related to web development.
-- 💬 Ask me about JavaScript,Django, HTML, CSS, Bootstrap, and anything related to web development.
-- 📫 How to reach me: You can reach me via email at jacknan598@gmail.com  
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love practicing hacking techniques in my free time!
-- 🧑‍💻 "I could not find the sports car of my dreams, so I'm building it myself through coding."
+---
 
-### Languages and Frameworks I Use
-- Python PHP with Django ,Laravel for backend web development
-- JavaScript, HTML, Bootstrap, and CSS for frontend development
+🌟 **Key Skills**  
+Frameworks & Libraries: Laravel, Django, React.js, Tailwind CSS, Bootstrap  
+Languages: PHP, Python, Java, JavaScript, HTML5, CSS3  
+Testing: Manual Testing, Automation Testing, Selenium  
+Databases: SQL Server, MongoDB  
+Tools: Git, Postman, Jira, Agile workflows  
+Cybersecurity: Basic threat detection, network security (Cisco Certified), familiar with OWASP Top 10  
 
+---
 
-### Let's Connect
-- LinkedIn: [Jackson Wesonga](https://www.linkedin.com/in/jackson-wesonga-a71088245/)
-- Twitter: [@Jack Nan](https://twitter.com/innovatorjackna)
-- Personal Website: [https://wesongajackson.github.io/]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-wesonga)](https://git.io/streak-stats)
 
-Thanks for stopping by! 😊
+---
+
+📬 **Connect with Me**  
+- GitHub: [github.com/dev-wesonga](https://github.com/dev-wesonga)  
+- LinkedIn: [linkedin.com](https://www.linkedin.com/in/jw-2301b2356/)
