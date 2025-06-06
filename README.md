@@ -6,24 +6,26 @@ Welcome to my GitHub! I'm a passionate software engineer with 3+ years of experi
 ---
 
 🌟 **Key Skills**  
-Frameworks & Libraries: Laravel, Django, React.js, Tailwind CSS, Bootstrap  
-Languages: PHP, Python, Java, JavaScript, HTML5, CSS3  
-Testing: Manual Testing, Automation Testing, Selenium  
-Databases: SQL Server, MongoDB  
-Tools: Git, Postman, Jira, Agile workflows  
-Cybersecurity: Basic threat detection, network security (Cisco Certified), familiar with OWASP Top 10  
+- ✔️ Frameworks & Libraries: Laravel, Django, React.js, Tailwind CSS, Bootstrap  
+- ✔️ Languages: PHP, Python, Java, JavaScript, HTML5, CSS3  
+- ✔️ Testing: Manual Testing, Automation Testing, Selenium  
+- ✔️ Databases: SQL Server, MongoDB  
+- ✔️ Tools: Git, Postman, Jira, Agile workflows  
+- ✔️ Cybersecurity: Basic threat detection, network security (Cisco Certified), familiar with OWASP Top 10  
 
 ---
 
-🚀 **Projects**   
-- [Onix Market](https://onix-market.com/)  
+🚀 **Projects**  
+- ▶️ [Selenium Automation](https://github.com/dev-wesonga/selenium-automation)  
+- ▶️ [Onix Market](https://onix-market.com/)  
 
 ---
 
 📬 **Connect with Me**  
-- GitHub: [github.com/dev-wesonga](https://github.com/dev-wesonga)  
-- LinkedIn: [linkedin.com/in/jw-2301b2356](https://www.linkedin.com/in/jw-2301b2356)  
-- Website: [dev-wesonga.github.io](https://dev-wesonga.github.io)  
-- Email: jacknan598@gmail.com  
+- ✉️ GitHub: [github.com/dev-wesonga](https://github.com/dev-wesonga)  
+- ✉️ LinkedIn: [linkedin.com/in/jw-2301b2356](https://www.linkedin.com/in/jw-2301b2356)  
+- ✉️ Website: [dev-wesonga.github.io](https://dev-wesonga.github.io)  
+- ✉️ Email: jacknan598@gmail.com  
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dev-wesonga)](https://git.io/streak-stats)
