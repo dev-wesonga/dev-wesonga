@@ -15,10 +15,17 @@ Cybersecurity: Basic threat detection, network security (Cisco Certified), famil
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-wesonga)](https://git.io/streak-stats)
+🚀 **Projects**   
+- [Onix Market](https://onix-market.com/)  
 
 ---
 
 📬 **Connect with Me**  
 - GitHub: [github.com/dev-wesonga](https://github.com/dev-wesonga)  
-- LinkedIn: [linkedin.com](https://www.linkedin.com/in/jw-2301b2356/)
+- LinkedIn: [linkedin.com/in/jw-2301b2356](https://www.linkedin.com/in/jw-2301b2356)  
+- Website: [dev-wesonga.github.io](https://dev-wesonga.github.io)  
+- Email: jacknan598@gmail.com  
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-wesonga)](https://git.io/streak-stats)
