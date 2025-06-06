@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate software engineer with 3+ years of experi
 - ✔️ Languages: PHP, Python, Java, JavaScript, HTML5, CSS3  
 - ✔️ Testing: Manual Testing, Automation Testing, Selenium  
 - ✔️ Databases: SQL Server, MongoDB  
-- ✔️ Tools: Git, Postman, Jira, Agile workflows  
+- ✔️ Tools: Git, Postman, Jira  
 - ✔️ Cybersecurity: Basic threat detection, network security (Cisco Certified), familiar with OWASP Top 10  
 
 ---
@@ -22,10 +22,9 @@ Welcome to my GitHub! I'm a passionate software engineer with 3+ years of experi
 ---
 
 📬 **Connect with Me**  
-- ✉️ GitHub: [github.com/dev-wesonga](https://github.com/dev-wesonga)  
-- ✉️ LinkedIn: [linkedin.com/in/jw-2301b2356](https://www.linkedin.com/in/jw-2301b2356)  
-- ✉️ Website: [dev-wesonga.github.io](https://dev-wesonga.github.io)  
-- ✉️ Email: jacknan598@gmail.com  
+- ✉️ LinkedIn: [linkedin](https://www.linkedin.com/in/jw-2301b2356)  
+- ✉️ Website: [Portfolio](https://dev-wesonga.github.io)  
+- ✉️ Email: [jacknan598@gmail.com] 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dev-wesonga)](https://git.io/streak-stats)
