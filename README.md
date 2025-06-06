@@ -26,6 +26,4 @@ Cybersecurity: Basic threat detection, network security (Cisco Certified), famil
 - Website: [dev-wesonga.github.io](https://dev-wesonga.github.io)  
 - Email: jacknan598@gmail.com  
 
----
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dev-wesonga)](https://git.io/streak-stats)
