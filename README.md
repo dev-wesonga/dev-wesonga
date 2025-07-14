@@ -18,6 +18,7 @@ Welcome to my GitHub! I'm a passionate software engineer with 3+ years of experi
 🚀 **Projects**  
 ▶️ [Selenium Automation](https://github.com/dev-wesonga/selenium-automation)  
 ▶️ [Onix Market](https://onix-market.com/)  
+▶️ [Anyduka ](https://anyduka.com/)  
 
 ---
 
