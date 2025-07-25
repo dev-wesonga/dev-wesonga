@@ -1,17 +1,17 @@
 ### Hi there, I'm Jackson Wesonga! 👋  
-👨‍💻 Software Engineer | 🧪 QA Engineer | 🔐 Cybersecurity Enthusiast  
+👨‍💻 Software Engineer | 🧪 QA Engineer  
 
-Welcome to my GitHub! I'm a passionate software engineer with 3+ years of experience in full-stack development, quality assurance, and cybersecurity. I specialize in building scalable web apps, testing software for reliability, and implementing secure systems.  
+Welcome to my GitHub! I'm a passionate software engineer with 3+ years of experience in full-stack development and quality assurance. I specialize in building scalable web apps, testing software for reliability, and implementing secure systems.  
 
 ---
 
 🌟 **Key Skills**  
- ✔️ Frameworks & Libraries: Laravel, Django, React.js, Tailwind CSS, Bootstrap  
- ✔️ Languages: PHP, Python, Java, JavaScript, HTML5, CSS3  
+ ✔️ Frameworks & Libraries: Laravel, Django, Tailwind CSS, Bootstrap  
+ ✔️ Languages: PHP, Python,Java
  ✔️ Testing: Manual Testing, Automation Testing, Selenium  
- ✔️ Databases: SQL Server, MongoDB  
+ ✔️ Databases: SQL Server
  ✔️ Tools: Git, Postman, Jira  
- ✔️ Cybersecurity: Basic threat detection, network security (Cisco Certified), familiar with OWASP Top 10  
+ 
 
 ---
 
