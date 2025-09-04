@@ -8,9 +8,9 @@ Welcome to my GitHub! I'm a passionate software engineer with 3+ years of experi
 🌟 **Key Skills**  
  ✔️ Frameworks & Libraries: Laravel, Django, Tailwind CSS, Bootstrap  
  ✔️ Languages: PHP, Python,Java
- ✔️ Testing: Manual Testing, Automation Testing, Selenium  
+ ✔️ Testing: Manual Testing, Automation Testing  
  ✔️ Databases: SQL Server
- ✔️ Tools: Git, Postman, Jira  
+ ✔️ Tools: Git, Postman, Jira,Selenium 
  
 
 ---
