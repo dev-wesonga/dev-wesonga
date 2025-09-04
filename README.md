@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a passionate software engineer with 3+ years of experi
 📬 **Connect with Me**  
 - ✉ LinkedIn: [linkedin](https://www.linkedin.com/in/jw-2301b2356)  
 - ✉ Website: [Portfolio](https://dev-wesonga.github.io)  
-- ✉ Email: jacknan598@gmail.com 
+- ✉ Email: devwesonga@gmail.com 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dev-wesonga)](https://git.io/streak-stats)
