@@ -24,9 +24,7 @@ I love building **scalable web applications**, creating **secure systems**, and 
 ---
 
 📊 **GitHub Stats**  
-
-![Jackson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-wesonga&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-wesonga&layout=compact&theme=tokyonight)  
+ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dev-wesonga&theme=tokyonight)](https://git.io/streak-stats)  
 
 ---
