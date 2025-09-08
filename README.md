@@ -1,31 +1,37 @@
-### Hi there, I'm Jackson Wesonga! 👋  
-👨‍💻 Software Engineer | 🧪 QA Engineer  
-
-Welcome to my GitHub! I'm a passionate software engineer with 3+ years of experience in full-stack development and quality assurance. I specialize in building scalable web apps, testing software for reliability, and implementing secure systems.  
+# Hi there, I'm Jackson Wesonga! 👋  
+👨‍💻 Software Engineer | Full-Stack Developer  
 
 ---
 
-🌟 **Key Skills**  
- ✔️ Frameworks & Libraries: Laravel, Django, Tailwind CSS, Bootstrap  
- ✔️ Languages: PHP, Python,Java
- ✔️ Testing: Manual Testing, Automation Testing  
- ✔️ Databases: SQL Server
- ✔️ Tools: Git, Postman, Jira,Selenium 
- 
+💡 **About Me**  
+I'm a passionate Software Engineer with 3+ years of experience in **full-stack development**.  
+I love building **scalable web applications**, creating **secure systems**, and solving real-world problems with code.  
 
 ---
 
-🚀 **Projects**  
-▶️ [Selenium Automation](https://github.com/dev-wesonga/selenium-automation)  
-▶️ [Onix Market](https://onix-market.com/)  
-▶️ [Anyduka ](https://anyduka.com/)  
+🌟 **Tech Stack**  
+🔹 **Backend:** PHP (Laravel), Python (Django), Java  
+🔹 **Frontend:** React.js, Tailwind CSS, Bootstrap  
+🔹 **Databases:** SQL Server  
+🔹 **Tools:** Git, Postman  
 
 ---
 
-📬 **Connect with Me**  
-- ✉ LinkedIn: [linkedin](https://www.linkedin.com/in/jw-2301b2356)  
-- ✉ Website: [Portfolio](https://dev-wesonga.github.io)  
-- ✉ Email: devwesonga@gmail.com 
+🚀 **Featured Projects**  
+- 🛒 [Onix Market](https://onix-market.com/)  
+- 🏬 [Anyduka](https://anyduka.com/)  
 
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-wesonga)](https://git.io/streak-stats)
+📊 **GitHub Stats**  
+
+![Jackson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-wesonga&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-wesonga&layout=compact&theme=tokyonight)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-wesonga&theme=tokyonight)](https://git.io/streak-stats)  
+
+---
+
+📬 **Let’s Connect**  
+- 🌐 [Portfolio](https://dev-wesonga.github.io)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jw-2301b2356)  
+- 📧 Email: **devwesonga@gmail.com**  
