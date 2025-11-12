@@ -1,5 +1,5 @@
 # Hi there, I'm Jackson Wesonga! 👋  
-👨‍💻 Software Engineer | Full-Stack Developer  
+👨‍💻 Software Engineer 
 
 ---
 
