@@ -1,12 +1,11 @@
-# Hi there, I'm Jackson Wesonga! 👋  
-👨‍💻 Backend Software Engineer  
+ # Hi there, I'm Jackson Wesonga! 👋  
+👨‍💻 Software Engineer 
 
 ---
 
 💡 **About Me**  
-I'm a passionate Software Engineer with 3+ years of experience in **backend and full-stack development**.  
-I specialize in building **scalable web applications**, **secure systems**, and **high-performance APIs**.  
-I enjoy solving real-world problems with code and delivering maintainable solutions that drive business growth.
+I’m a passionate Software Engineer specializing in backend development with over 3 years of experience designing and delivering scalable, high-performance, and secure web applications, APIs, and database systems.
+I have a proven track record of optimizing backend architectures, integrating APIs, and deploying cloud-based solutions that drive business growth. I thrive in Agile environments and am committed to delivering maintainable, efficient, and high-quality software that powers business success.
 
 ---
 
@@ -20,14 +19,13 @@ I enjoy solving real-world problems with code and delivering maintainable soluti
 ---
 
 🚀 **Featured Projects**  
-- 🛒 [Onix Market](https://onix-market.com/) – Django backend with MySQL, optimized for performance.  
-- 🏬 [AnyDuka](https://anyduka.com/) – PHP/Laravel eCommerce platform with RBAC, payment integration, and optimized database.  
-
+- 🛒 [Onix Market](https://onix-market.com/)  
+- 🏬 [Anyduka](https://anyduka.com/)  
 
 ---
 
 📊 **GitHub Stats**  
-
+ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dev-wesonga&theme=tokyonight)](https://git.io/streak-stats)  
 
 ---
@@ -35,5 +33,4 @@ I enjoy solving real-world problems with code and delivering maintainable soluti
 📬 **Let’s Connect**  
 - 🌐 [Portfolio](https://dev-wesonga.github.io)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jw-2301b2356)  
-- 📧 [Email](mailto:devwesonga@gmail.com)  
-- 🐙 [GitHub](https://github.com/dev-wesonga)
+- 📧 Email: **devwesonga@gmail.com**  
