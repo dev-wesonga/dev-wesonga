@@ -15,14 +15,14 @@ I enjoy solving real-world problems with code and delivering maintainable soluti
 🔹 **Frontend:** JavaScript, React.js  
 🔹 **Databases:** MySQL, Database Architecture  
 🔹 **DevOps & Cloud:** Docker, CI/CD (GitHub Actions), AWS, Microsoft Azure  
-🔹 **Tools:** Git, Chatwoot (Rasa AI Chatbot)  
+🔹 **Tools:** Git, Postman  
 
 ---
 
 🚀 **Featured Projects**  
 - 🛒 [Onix Market](https://onix-market.com/) – Django backend with MySQL, optimized for performance.  
 - 🏬 [AnyDuka](https://anyduka.com/) – PHP/Laravel eCommerce platform with RBAC, payment integration, and optimized database.  
-- 💬 Chatbot Integration – AI-powered customer support using **Chatwoot + Rasa**, connected via API for automated responses.  
+
 
 ---
 
