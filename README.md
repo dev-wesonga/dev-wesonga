@@ -4,8 +4,10 @@
 ---
 
 💡 **About Me**  
-I’m a passionate Software Engineer specializing in backend development with over 3 years of experience designing and delivering scalable, high-performance, and secure web applications, APIs, and database systems.
-I have a proven track record of optimizing backend architectures, integrating APIs, and deploying cloud-based solutions that drive business growth. I thrive in Agile environments and am committed to delivering maintainable, efficient, and high-quality software that powers business success.
+- I’m a passionate Software Engineer specializing in backend development with over 3 years of experience designing and delivering scalable, high-performance, and secure web applications, APIs, and database systems.
+
+- I focus on backend architecture, API development, cloud deployments, and database optimization, delivering maintainable and efficient solutions that drive business growth.
+
 
 ---
 
